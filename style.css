@@ -18,9 +18,9 @@ h2{
 }
 
 .timer{   
-    border-radius: 15%;
-    align-content: center;
-    border: 4px solid blueviolet;
+    color: chartreuse;
     background-color: crimson;
-}
+    
+    }
+
             
